@@ -47,8 +47,7 @@
 
 # 3 Требования к интерфейсу
 ## 3.1 Пользовательский интерфейс
-Меню
-![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Main.png)
+![Меню](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Main.png)
 
 # 4 Функциональные особенности 
 * Играть в однопользовательском режиме.
