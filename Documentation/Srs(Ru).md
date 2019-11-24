@@ -51,6 +51,26 @@
 
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Main.png)
 
+Однопользовательский режим
+
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Singleplay.png)
+
+Многопользовательский режим
+
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Multiplayer.png)
+
+Выбор уровня сложности
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/lvl.png)
+
+Обучние
+
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/FAQ.png)
+
+Лучшие результаты
+
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Best%20results.png)
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Best%20results1.png)
+
 # 4 Функциональные особенности 
 * Играть в однопользовательском режиме.
 * Играть в многопользовательском режиме.
