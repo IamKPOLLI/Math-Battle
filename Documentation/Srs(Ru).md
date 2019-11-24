@@ -20,3 +20,6 @@
 
 * Приложение не работает на смартфонах с версией Android 5.0 и ниже.
 * Пользователям доступен только многопользовательский режим.
+
+## 1.3 Аналоги
+[Math Duel](https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame&hl=ru)
