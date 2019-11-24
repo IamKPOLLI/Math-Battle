@@ -60,6 +60,7 @@
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/Multiplayer.png)
 
 Выбор уровня сложности
+
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/lvl.png)
 
 Обучние
