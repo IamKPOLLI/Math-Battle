@@ -21,6 +21,6 @@
 ## 1.3 Аналоги
 Основной недостаток аналогов - игра на одном экране и только.
 
-[Wikium](https://play.google.com/store/apps/details?id=ru.wikium.android&hl=ru) - приложение,содержащее множество разнообразных тренажоров для мозга.Главным недостатком является платный контент.То,к чему стремится этот проект.
+[Wikium](https://play.google.com/store/apps/details?id=ru.wikium.android&hl=ru) - приложение,содержащее множество разнообразных тренажоров для мозга.То,к чему стремится этот проект.Главным недостатком является платный контент.
 
-[Math Duel](https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame&hl=ru) - приложение, являющееся тренировкой скорости мышления.Главным недостатком является отсутствие online-режима.
+[Math Duel](https://play.google.com/store/apps/details?id=com.mathduel2playersgame.mathgame&hl=ru) - приложение, являющееся тренировкой скорости мышления.Является примером того,каким должен получится проект.Главным недостатком является отсутствие online-режима.
