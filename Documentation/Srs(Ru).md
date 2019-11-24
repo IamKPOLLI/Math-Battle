@@ -65,7 +65,7 @@
 
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/lvl.png)
 
-Обучние
+Обучение
 
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Mackups/FAQ.png)
 
