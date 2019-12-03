@@ -1,3 +1,7 @@
+# Содержание
+0. [Введение](https://github.com/IamKPOLLI/Math-Battle/blob/master/Documentation/Srs(Ru).md#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
+
+
 # 1 Введение
 ## 1.1 Назначение
 В данном документе описываются бизнесс-требования, функциональные и нефункциональные требования к Android-игре «Math Battle».Этот документ 
