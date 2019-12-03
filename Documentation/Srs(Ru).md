@@ -4,7 +4,7 @@
 1.2 [Бизнес-требования](https://github.com/IamKPOLLI/Math-Battle/blob/master/Documentation/Srs(Ru).md#12-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)  
 1.2.1 [Исходные данные](https://github.com/IamKPOLLI/Math-Battle/blob/master/Documentation/Srs(Ru).md#121-%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5)  
 1.2.2 [Возможности бизнеса](https://github.com/IamKPOLLI/Math-Battle/blob/master/Documentation/Srs(Ru).md#122-%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D0%B0)  
-1.2.3 [Предположения и зависимости](#123-Предположения и зависимости)    
+1.2.3 [Предположения и зависимости](#123-Предположения-и-зависимости)    
 1.3 [Аналоги](https://github.com/IamKPOLLI/Math-Battle/blob/master/Documentation/Srs(Ru).md#13-%D0%B0%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8)  
 
 
