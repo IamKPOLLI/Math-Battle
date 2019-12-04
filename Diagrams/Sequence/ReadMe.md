@@ -8,7 +8,7 @@
 
 # 1. Диаграммы последовательностей  
 ## 1.1 Начать игру  
-![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Singleplay.vpd(Sequence).png)
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Singleplay(Sequence).vpd.png)
 ## 1.2 Выйти из игры
 ![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Exit(Sequence).vpd.png)
 ## 1.3 Открыть обучение
