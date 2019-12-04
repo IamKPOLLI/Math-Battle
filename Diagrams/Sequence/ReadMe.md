@@ -1,8 +1,19 @@
 # Содержание 
 1. [Диаграммы последовательностей](#1-Диаграммы-последовательностей)  
-1.1 [Начать одиночную игру](#11-Начать-одиночную-игру)  
+1.1 [Начать игру](#11-Начать-игру)  
 1.2 [Выйти из игры](#12-Выйти-из-игры)  
-1.3 [Открыть руководство пользователя](#13-Открыть-руководство-пользователя)  
-1.4 [Просмотреть статистику](#14-Просмотреть-статистику)  
-1.5 [Многопользовательская игра](#15-Многопользовательская-игра)  
+1.3 [Открыть руководство пользователя](#13-Открыть-обучение)  
+1.4 [Просмотреть лучшие результаты](#14-Просмотреть-лучшие-результаты)  
+1.5 [Многопользовательский режим](#15-Многопользовательский-режим)  
 
+# 1. Диаграммы последовательностей  
+## 1.1 Начать игру  
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Singleplay.vpd(Sequence).png)
+## 1.2 Выйти из игры
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Exit(Sequence).vpd.png)
+## 1.3 Открыть обучение
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/FAQ(Sequence).vpd.png)
+## 1.4 Просмотреть лучшие результаты
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/BestResults.vpd(Sequence).png)
+## 1.5 Многопользовательский режим 
+![](https://github.com/IamKPOLLI/Math-Battle/blob/master/Diagrams/Sequence/Multiplay(Sequence).vpd.png)
