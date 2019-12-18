@@ -4,10 +4,10 @@
 3. [Диаграмма компонентов](#3Диаграмма-компонентов)  
 
 # 1 Диаграмма классов
-![Диаграмма классов](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Diagram.png) 
+![](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Diagram.png) 
 
 # 2 Диаграмма развёртывания
-![Диаграмма развёртывания](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Deploy.png) 
+![](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Deploy.png) 
 
 # 3 Диаграмма компонентов
-![Диаграмма развёртывания](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Component.png)
+![](https://github.com/IamKPOLLI/Math-Battle/edit/master/Diagrams/DCC/Component.png)
