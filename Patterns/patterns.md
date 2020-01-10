@@ -18,7 +18,7 @@
 Адаптер — это структурный паттерн проектирования, который позволяет объектам с несовместимыми интерфейсами работать вместе.  
 В данном проете обьектом-адаптером является класс Info. Ниже представлены пример диаграммы классов и код проекта.
 
-![Adapter](https://github.com/IamKPOLLI/Math-Battle/blob/master/Patterns/Adapter_Diagram.png)
+![Adapter](https://github.com/IamKPOLLI/Math-Battle/blob/master/Patterns/Adarter_Diagram.png)
 
 ![Adapter](https://github.com/IamKPOLLI/Math-Battle/blob/master/Patterns/Adapter1.png)
 
