@@ -1,0 +1,41 @@
+
+texture.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FAQ
+  rotate: false
+  xy: 2, 238
+  size: 464, 776
+  orig: 464, 776
+  offset: 0, 0
+  index: -1
+longpressed
+  rotate: false
+  xy: 468, 746
+  size: 960, 268
+  orig: 960, 268
+  offset: 0, 0
+  index: -1
+longunpressed
+  rotate: false
+  xy: 468, 478
+  size: 934, 266
+  orig: 934, 266
+  offset: 0, 0
+  index: -1
+pressed
+  rotate: false
+  xy: 2, 2
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+unpressed
+  rotate: false
+  xy: 1430, 780
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
